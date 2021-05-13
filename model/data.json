@@ -1,0 +1,60 @@
+{
+    "pageTextData": [
+		{
+			"title": "Coca Cola Great Britain",
+			"subTitle": "Founded in 1886 Dr John S Pemberton",		
+			"description": "The Coca Cola Company is the world's leading manufacturer, marketer and distributor of non-alcoholic beverage concentrates and syrups, and produces nearly 400 brands."
+		},
+		{
+			"title": "Appletiser",
+			"subTitle": "Western Cape, South Africa, 1966",		
+			"description": "Edmond Lombardi arrived on South African shores in the 1930s and settled in the lush and tranquil region of Elgin Valley, Western Cape. It was there that he cast his eyes over the lowland and came to realise that Elgin Valley was unique and distinct, as would his soon-to-be world-class fruit juice that we know today as Appletiser."
+		},
+		{
+			"title": "Costa Coffee",
+			"subTitle": "London, 1971",		
+			"description": "The Costa Coffee story began back in 1971 when Sergio and Bruno arrived in London with a burning desire to make great tasting coffee a part of everyday life. Setting up a small roastery in Fenchurch Street, they committed to crafting the finest quality coffee."
+		},
+		{
+			"title": "Vitamin Water",
+			"subTitle": "New York City, 1996",		
+			"description": "In New York City, an adventurer, gadabout and humble genius named J. Darius Bikoff was being pummeled by the one-two punch of raging thirst and low energy. Heading to a yoga class, Bikoff was feeling run-down and gobbled a vitamin c lozenge which he chased with a swig of water. The combination of flavour and nourishment inspired Bikoff to develop and launch Glacéau Vitamin Water."
+		},
+		{
+			"x3dModelTitle": "Appletiser X3D Model",
+			"x3dCreationMethod": "This X3D model of the appletiser bottle has been created in Cinema4D, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online. Please zoom out to view these models!",
+			"title": "History of Appletiser",
+			"subTitle": "Appletiser, crowning every moment since 1966",		
+			"description": "Indulge in 100% sparkling Appletiser. An expertly blended and luxurious apple juice with a delicate effervescence & seductive palate. Savour the rich flavour of Appletiser for those moments when you deserve more indulgence. So, no matter where you Crown Every Moment, we’re the premium drink that’ll be right there by your side."
+		},
+		{
+			"x3dModelTitle": "Costa Coffee X3D Model",
+			"x3dCreationMethod": "This X3D model of the costa coffee can has been created in Cinema4D, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online. Please zoom out to view these models!",
+			"title": "History of Costa Coffee",
+			"subTitle": "London, born and blended since 1971",		
+			"description": "We've 50 years' experience of crafting the finest quality coffee. From revolutionary methods and commitment to quality to unforgettable successes that have made Costa Coffee the Nation’s Favourite* coffee shop, our story is as unique as our coffee."
+		},
+        {
+			"x3dModelTitle": "Vitamin Water X3D Model",
+			"x3dCreationMethod": "This X3D model of the vitamin water bottle has been created in Cinema4D, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online. Please zoom out to view these models!",
+			"title": "History of Vitamin Water",
+			"subTitle": "Feel better through better hydration.",		
+			"description": "Bikoff’s vision gave birth to glacéau vitaminwater®, changing the beverage industry forever. Not only did he create the enhanced water category, he went on to build glacéau vitaminwater® which is now available in more than 20 countries with 9 different flavours."
+		},
+		{
+			"x3dModelTitle": "Coke Can X3D Model",
+			"x3dCreationMethod": "This X3D model of the coke can has been created in Cinema4D, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online. Please zoom out to view these models!",
+			"title": "History of Coca Cola",
+			"subTitle": "Atlanta Beginnings",		
+			"description": "It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Eight hundred miles away, another great American symbol was about to be unveiled. Like many people who change history, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. Here, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents (about 3p) a glass."
+		},
+		{
+			"galleryTitle": "3D Images",
+			"galleryDescription": "These 3D images of the Appletiser bottle, Costa Coffee can, Vitamin Water bottle and Coke can are rendered in Cinema4D."
+		},
+		{
+			"CameraTitle": "Camera Views",
+			"CameraSubtitle": "These buttons select a range of X3D model viewpoints"
+		}
+	]
+}
